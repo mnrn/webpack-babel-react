@@ -1,6 +1,6 @@
-# Webpack + Babel のテンプレート
+# Webpack + Babel + React のテンプレート
 
-webpackとbabelを組み合わせた場合のテンプレートになります。
+webpackとbabelとReactを組み合わせた場合のテンプレートになります。
 
 ## 依存関係
 
